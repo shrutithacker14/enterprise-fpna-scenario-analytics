@@ -1,6 +1,6 @@
 # Enterprise FP&A Analytics
 
-![Excel dashboard preview](docs/dashboard_preview.png)
+![Excel dashboard preview](<img width="1917" height="965" alt="Screenshot 2026-09-04 160112" src="https://github.com/user-attachments/assets/628f73f4-e0be-4dc9-8510-843d9ad43035" />
 
 A small FP&A-style analytics case study built from synthetic ERP data. I used Python to generate the data, SQL to validate and analyze it, and Excel to build a simple scenario model. The goal is to show the full path from raw transactions to a business recommendation.
 
