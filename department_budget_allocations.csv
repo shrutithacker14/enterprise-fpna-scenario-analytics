@@ -1,0 +1,53 @@
+budget_id,fiscal_year,cost_center,department,expense_category,allocated_budget_usd,budget_owner,allocated_budget_inr
+BUD-2025-0001,2025,CC-100,Engineering,Cloud Infrastructure,13020000.0,Director of Engineering,1242889200.0
+BUD-2025-0002,2025,CC-100,Engineering,Salaries & Contractors,17670000.0,Director of Engineering,1686778200.0
+BUD-2025-0003,2025,CC-100,Engineering,DevOps Tooling,10230000.0,Director of Engineering,976555799.9999999
+BUD-2025-0004,2025,CC-100,Engineering,Hardware & Peripherals,5580000.0,Director of Engineering,532666799.99999994
+BUD-2025-0005,2025,CC-200,Marketing,Paid Performance Ads,12600000.0,Director of Marketing,1202796000.0
+BUD-2025-0006,2025,CC-200,Marketing,Events & Sponsorships,6600000.0,Director of Marketing,630036000.0
+BUD-2025-0007,2025,CC-200,Marketing,Content & SEO Agencies,6000000.0,Director of Marketing,572760000.0
+BUD-2025-0008,2025,CC-200,Marketing,Brand & Creative Assets,4800000.0,Director of Marketing,458207999.99999994
+BUD-2025-0009,2025,CC-300,Sales,Travel & Entertainment,5400000.0,VP Sales,515483999.99999994
+BUD-2025-0010,2025,CC-300,Sales,Commissions & Incentives,12420000.0,VP Sales,1185613200.0
+BUD-2025-0011,2025,CC-300,Sales,CRM & Enablement Software,5940000.0,VP Sales,567032400.0
+BUD-2025-0012,2025,CC-300,Sales,Client Hospitality,3240000.0,VP Sales,309290400.0
+BUD-2025-0013,2025,CC-400,Operations,SaaS Licenses & ERP,7700000.0,VP Operations,735042000.0
+BUD-2025-0014,2025,CC-400,Operations,Office Facilities & Lease,6160000.0,VP Operations,588033600.0
+BUD-2025-0015,2025,CC-400,Operations,Logistics & Shipping,3740000.0,VP Operations,357020400.0
+BUD-2025-0016,2025,CC-400,Operations,Professional Services,4400000.0,VP Operations,420024000.0
+BUD-2025-0017,2025,CC-500,Finance & Legal,External Audit & Tax,5440000.0,CFO,519302399.99999994
+BUD-2025-0018,2025,CC-500,Finance & Legal,Legal Counsel & Retainers,4800000.0,CFO,458207999.99999994
+BUD-2025-0019,2025,CC-500,Finance & Legal,Treasury & Bank Fees,2560000.0,CFO,244377599.99999997
+BUD-2025-0020,2025,CC-500,Finance & Legal,Payroll Processing,3200000.0,CFO,305472000.0
+BUD-2025-0021,2025,CC-600,Product & Design,UX Research & UserTesting,6480000.0,VP Product,618580800.0
+BUD-2025-0022,2025,CC-600,Product & Design,Prototyping Software,5040000.0,VP Product,481118399.99999994
+BUD-2025-0023,2025,CC-600,Product & Design,Design Contractors,6480000.0,VP Product,618580800.0
+BUD-2025-0024,2025,CC-700,Customer Success,Ticketing & Support Tools,9600000.0,VP Customer Success,916415999.9999999
+BUD-2025-0025,2025,CC-700,Customer Success,Customer Advisory Board,4400000.0,VP Customer Success,420024000.0
+BUD-2025-0026,2025,CC-700,Customer Success,Retention Swag & Gifting,6000000.0,VP Customer Success,572760000.0
+BUD-2026-0027,2026,CC-100,Engineering,Cloud Infrastructure,13931400.0,Director of Engineering,1329891444.0
+BUD-2026-0028,2026,CC-100,Engineering,Salaries & Contractors,18906900.0,Director of Engineering,1804852674.0
+BUD-2026-0029,2026,CC-100,Engineering,DevOps Tooling,10946100.0,Director of Engineering,1044914705.9999999
+BUD-2026-0030,2026,CC-100,Engineering,Hardware & Peripherals,5970600.0,Director of Engineering,569953476.0
+BUD-2026-0031,2026,CC-200,Marketing,Paid Performance Ads,13104000.0,Director of Marketing,1250907840.0
+BUD-2026-0032,2026,CC-200,Marketing,Events & Sponsorships,6864000.0,Director of Marketing,655237440.0
+BUD-2026-0033,2026,CC-200,Marketing,Content & SEO Agencies,6240000.0,Director of Marketing,595670400.0
+BUD-2026-0034,2026,CC-200,Marketing,Brand & Creative Assets,4992000.0,Director of Marketing,476536319.99999994
+BUD-2026-0035,2026,CC-300,Sales,Travel & Entertainment,5670000.0,VP Sales,541258200.0
+BUD-2026-0036,2026,CC-300,Sales,Commissions & Incentives,13041000.0,VP Sales,1244893860.0
+BUD-2026-0037,2026,CC-300,Sales,CRM & Enablement Software,6237000.0,VP Sales,595384020.0
+BUD-2026-0038,2026,CC-300,Sales,Client Hospitality,3402000.0,VP Sales,324754920.0
+BUD-2026-0039,2026,CC-400,Operations,SaaS Licenses & ERP,8162000.0,VP Operations,779144520.0
+BUD-2026-0040,2026,CC-400,Operations,Office Facilities & Lease,6529600.0,VP Operations,623315616.0
+BUD-2026-0041,2026,CC-400,Operations,Logistics & Shipping,3964400.0,VP Operations,378441624.0
+BUD-2026-0042,2026,CC-400,Operations,Professional Services,4664000.0,VP Operations,445225440.0
+BUD-2026-0043,2026,CC-500,Finance & Legal,External Audit & Tax,5657600.0,CFO,540074496.0
+BUD-2026-0044,2026,CC-500,Finance & Legal,Legal Counsel & Retainers,4992000.0,CFO,476536319.99999994
+BUD-2026-0045,2026,CC-500,Finance & Legal,Treasury & Bank Fees,2662400.0,CFO,254152703.99999997
+BUD-2026-0046,2026,CC-500,Finance & Legal,Payroll Processing,3328000.0,CFO,317690880.0
+BUD-2026-0047,2026,CC-600,Product & Design,UX Research & UserTesting,6868800.0,VP Product,655695648.0
+BUD-2026-0048,2026,CC-600,Product & Design,Prototyping Software,5342400.0,VP Product,509985503.99999994
+BUD-2026-0049,2026,CC-600,Product & Design,Design Contractors,6868800.0,VP Product,655695648.0
+BUD-2026-0050,2026,CC-700,Customer Success,Ticketing & Support Tools,9888000.0,VP Customer Success,943908479.9999999
+BUD-2026-0051,2026,CC-700,Customer Success,Customer Advisory Board,4532000.0,VP Customer Success,432624720.0
+BUD-2026-0052,2026,CC-700,Customer Success,Retention Swag & Gifting,6180000.0,VP Customer Success,589942800.0
